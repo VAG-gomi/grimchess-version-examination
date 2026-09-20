@@ -1,0 +1,282 @@
+[
+  {
+    "path": "App.tsx",
+    "status": "MODIFIED",
+    "old_sha256": "59b7696ce48db13ca7c79e9cae8ccb4b8b311b69ea272ec34b3f36065b9f2a48",
+    "current_sha256": "bbcb9e95b65f77f677787ac145199daa82add1e9db02fa606660834231397bbe",
+    "old_size": 20923,
+    "current_size": 25822
+  },
+  {
+    "path": "__tests__/integration.test.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "ff7414864a81480b981794f295f121dbba4ab8f15399b99a62bd470402ba7f66",
+    "current_sha256": "ff7414864a81480b981794f295f121dbba4ab8f15399b99a62bd470402ba7f66",
+    "old_size": 2692,
+    "current_size": 2692
+  },
+  {
+    "path": "__tests__/paradox.test.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "04252b96c30cf6c665e954ec6fc4d0ca6ae91b0a655cb29aad3c342ec0ab964a",
+    "current_sha256": "04252b96c30cf6c665e954ec6fc4d0ca6ae91b0a655cb29aad3c342ec0ab964a",
+    "old_size": 2838,
+    "current_size": 2838
+  },
+  {
+    "path": "__tests__/simulator.test.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "cc71d6e1bef6f6929ede3e2b34fb759293c7c6e7107b5efddc976575748bd161",
+    "current_sha256": "cc71d6e1bef6f6929ede3e2b34fb759293c7c6e7107b5efddc976575748bd161",
+    "old_size": 8312,
+    "current_size": 8312
+  },
+  {
+    "path": "components/Chat.tsx",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "ec4e6aea6886c727bb00cc5e5336441d8a80ec9c2bed0320f888b9d5a066d42c",
+    "current_sha256": "ec4e6aea6886c727bb00cc5e5336441d8a80ec9c2bed0320f888b9d5a066d42c",
+    "old_size": 1212,
+    "current_size": 1212
+  },
+  {
+    "path": "components/ForcePanel.tsx",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "290cd2554d85256a6f375131cc29e8c498635aa0a580ebafa89d3c2cf7cf790e",
+    "current_sha256": "290cd2554d85256a6f375131cc29e8c498635aa0a580ebafa89d3c2cf7cf790e",
+    "old_size": 4568,
+    "current_size": 4568
+  },
+  {
+    "path": "components/InitScreen.tsx",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "df56f2ef82a30746a4445016190b0c344f290e0c2f3a66596c157aa5e97af1ef",
+    "current_sha256": "df56f2ef82a30746a4445016190b0c344f290e0c2f3a66596c157aa5e97af1ef",
+    "old_size": 5533,
+    "current_size": 5533
+  },
+  {
+    "path": "components/ResumeScreen.tsx",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "95c9a9589fe0d24763773a2603e1511056dbec5dcb44d68ac2abd2d9fe3f70d8",
+    "current_sha256": "95c9a9589fe0d24763773a2603e1511056dbec5dcb44d68ac2abd2d9fe3f70d8",
+    "old_size": 1765,
+    "current_size": 1765
+  },
+  {
+    "path": "components/Sparkline.tsx",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "8169733bd2ce75c4ee480a8dbc21995ff2e3d34a2afb526d20363db772d5a3fb",
+    "current_sha256": "8169733bd2ce75c4ee480a8dbc21995ff2e3d34a2afb526d20363db772d5a3fb",
+    "old_size": 1059,
+    "current_size": 1059
+  },
+  {
+    "path": "engine/stockfish.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "ee144c39f4714647c587ab8a95327167a55f6d3573eabcd5f1032578051bf6b2",
+    "current_sha256": "ee144c39f4714647c587ab8a95327167a55f6d3573eabcd5f1032578051bf6b2",
+    "old_size": 4722,
+    "current_size": 4722
+  },
+  {
+    "path": "forensics/ForensicTrace.ts",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "04e91a30abf9472b6171368e6ee4fd310a50e33e5243d714fac633718ef2a8fd",
+    "old_size": null,
+    "current_size": 2985
+  },
+  {
+    "path": "hooks/useForces.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "b891ab3df5e5c6bf5f199c93795825ba0a47591fd3843ae319a057e28541b682",
+    "current_sha256": "b891ab3df5e5c6bf5f199c93795825ba0a47591fd3843ae319a057e28541b682",
+    "old_size": 2003,
+    "current_size": 2003
+  },
+  {
+    "path": "hooks/useOracle.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "47eef1a43a8268cb59a2e1e3f1d09dc51be6746016fabb83cf1ab2c4300e3e9c",
+    "current_sha256": "47eef1a43a8268cb59a2e1e3f1d09dc51be6746016fabb83cf1ab2c4300e3e9c",
+    "old_size": 1569,
+    "current_size": 1569
+  },
+  {
+    "path": "hooks/useStorage.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "a3e3ca83a2709eb9e0bdf8793df9431a888b770e10b4624bb221bb76394a9ea9",
+    "current_sha256": "a3e3ca83a2709eb9e0bdf8793df9431a888b770e10b4624bb221bb76394a9ea9",
+    "old_size": 1576,
+    "current_size": 1576
+  },
+  {
+    "path": "main.tsx",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "03f48a8ca753892031d7ba25543788efc5f3c03f2668c273b24788206cb740b6",
+    "current_sha256": "03f48a8ca753892031d7ba25543788efc5f3c03f2668c273b24788206cb740b6",
+    "old_size": 212,
+    "current_size": 212
+  },
+  {
+    "path": "simulator/BenchmarkRunner.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "947bb5a7490cfabdabec5118656df5e10c00b5207ca04ab150adc7ecf45d6187",
+    "current_sha256": "947bb5a7490cfabdabec5118656df5e10c00b5207ca04ab150adc7ecf45d6187",
+    "old_size": 11232,
+    "current_size": 11232
+  },
+  {
+    "path": "simulator/BenchmarkSuite.ts",
+    "status": "MODIFIED",
+    "old_sha256": "24b279cde068bfcfce7becd6a052225ffb3690b83873a24d949737955f1de742",
+    "current_sha256": "8e69c33d8dc704703f5a1085f62e0131fc957b4ebb964aac4ffb46821d5dffb1",
+    "old_size": 6264,
+    "current_size": 6398
+  },
+  {
+    "path": "simulator/ChessSimulator.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "2bef5501246fc15e85da0b22df71f4dc111943fe89bc244ff52750278430469c",
+    "current_sha256": "2bef5501246fc15e85da0b22df71f4dc111943fe89bc244ff52750278430469c",
+    "old_size": 4132,
+    "current_size": 4132
+  },
+  {
+    "path": "simulator/ForceModel.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "a54c441996a0aa3b047f8060d3d1a3b456a1b3a8ce1aeddce496c89fca9705cd",
+    "current_sha256": "a54c441996a0aa3b047f8060d3d1a3b456a1b3a8ce1aeddce496c89fca9705cd",
+    "old_size": 3929,
+    "current_size": 3929
+  },
+  {
+    "path": "simulator/IntegrityGuards.ts",
+    "status": "MODIFIED",
+    "old_sha256": "71ffd6374734765bf841201d27e28c476ddf27142719c74066d6d60c925979e0",
+    "current_sha256": "9853227aeedaeff011da1da8d37fc23f66ea525f921480b5ee0e19808312a4b2",
+    "old_size": 829,
+    "current_size": 2700
+  },
+  {
+    "path": "simulator/MoveClassifier.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "bcc6962c36b8be64c63b1fa4e5b8eebac1ce12ed87dcc9bc8a295c0d7e69de7e",
+    "current_sha256": "bcc6962c36b8be64c63b1fa4e5b8eebac1ce12ed87dcc9bc8a295c0d7e69de7e",
+    "old_size": 2623,
+    "current_size": 2623
+  },
+  {
+    "path": "simulator/OracleService.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "04008e82f34e8c27981169bf97a68d9f07187088707070f0e5904b115d614ab9",
+    "current_sha256": "04008e82f34e8c27981169bf97a68d9f07187088707070f0e5904b115d614ab9",
+    "old_size": 2662,
+    "current_size": 2662
+  },
+  {
+    "path": "simulator/ReplayStore.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "bf3228027d05b7b09abe4e877b2fd2d0ea4349867d55fd3251505d4c95b1a129",
+    "current_sha256": "bf3228027d05b7b09abe4e877b2fd2d0ea4349867d55fd3251505d4c95b1a129",
+    "old_size": 1596,
+    "current_size": 1596
+  },
+  {
+    "path": "simulator/StockfishAdapter.ts",
+    "status": "MODIFIED",
+    "old_sha256": "3241e2fd20fa3ca9b2c6202778ab89add329b28d6045af56ce767507ed452773",
+    "current_sha256": "5774b51a15b9fc17c86b08f5316ac914696854f33ad89eae5ff739a25476a90a",
+    "old_size": 5023,
+    "current_size": 6720
+  },
+  {
+    "path": "simulator/index.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "7c1e2de0f884ac48d73e667b0b15f51f39d5e20eb3a2e51aaa13c1b3f8368dde",
+    "current_sha256": "7c1e2de0f884ac48d73e667b0b15f51f39d5e20eb3a2e51aaa13c1b3f8368dde",
+    "old_size": 1384,
+    "current_size": 1384
+  },
+  {
+    "path": "simulator/paradox/ContradictionDetector.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "a28847c041e135a34c4525370e3e5afb3cd4f90a0517a0593b7fb401c71ffb92",
+    "current_sha256": "a28847c041e135a34c4525370e3e5afb3cd4f90a0517a0593b7fb401c71ffb92",
+    "old_size": 1379,
+    "current_size": 1379
+  },
+  {
+    "path": "simulator/paradox/LiveAdapter.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "6cb0be36ad4df61a0ad9962ca2bc916b1899157e99bec2eaf9133e755ceb1206",
+    "current_sha256": "6cb0be36ad4df61a0ad9962ca2bc916b1899157e99bec2eaf9133e755ceb1206",
+    "old_size": 1774,
+    "current_size": 1774
+  },
+  {
+    "path": "simulator/paradox/MapRevisionEngine.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "ee165c4006fdb169ec66309b22662cc3d8f0766b3aa97ecf4602734b34c63956",
+    "current_sha256": "ee165c4006fdb169ec66309b22662cc3d8f0766b3aa97ecf4602734b34c63956",
+    "old_size": 1537,
+    "current_size": 1537
+  },
+  {
+    "path": "simulator/paradox/ParadoxEngine.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "73efe96c07171d60977bda43fdc34202474f300270ab60ccc315c09f0d2ed86c",
+    "current_sha256": "73efe96c07171d60977bda43fdc34202474f300270ab60ccc315c09f0d2ed86c",
+    "old_size": 3437,
+    "current_size": 3437
+  },
+  {
+    "path": "simulator/paradox/PredictionMap.ts",
+    "status": "MODIFIED",
+    "old_sha256": "7c9fe03bf92c9a266302e1165374c765f78cb47fe84a8f5d2cdecfcbcbedc7b5",
+    "current_sha256": "5ab6ab555b0ed9f28f863471d3664ea9a8a79811496d7fe6b17aa2bd51c3a175",
+    "old_size": 3214,
+    "current_size": 4128
+  },
+  {
+    "path": "simulator/paradox/index.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "67d97270a60cf16da94ff0694bb6b5bed2c30f64be6f4a6e3dc5c931d9a8638f",
+    "current_sha256": "67d97270a60cf16da94ff0694bb6b5bed2c30f64be6f4a6e3dc5c931d9a8638f",
+    "old_size": 655,
+    "current_size": 655
+  },
+  {
+    "path": "simulator/paradox/types.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "7f1850a9d50c30ea972dcebfee7df2fa86a076bdea3dfbd7316c55edeb8dda56",
+    "current_sha256": "7f1850a9d50c30ea972dcebfee7df2fa86a076bdea3dfbd7316c55edeb8dda56",
+    "old_size": 2197,
+    "current_size": 2197
+  },
+  {
+    "path": "simulator/types.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "612c0afd32840e55f77d70d8b7295d686b96c8f4840173bd924e75181764f659",
+    "current_sha256": "612c0afd32840e55f77d70d8b7295d686b96c8f4840173bd924e75181764f659",
+    "old_size": 3987,
+    "current_size": 3987
+  },
+  {
+    "path": "types/index.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "5d939515fa1d3bcf8e33cc3bc5a6139a915503db61942e457ff44e476bbdc741",
+    "current_sha256": "5d939515fa1d3bcf8e33cc3bc5a6139a915503db61942e457ff44e476bbdc741",
+    "old_size": 1053,
+    "current_size": 1053
+  },
+  {
+    "path": "vite-env.d.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "daa440f49d2508282557d1101ec80d371497e68c2bf4c01012ad1cc66717fb79",
+    "current_sha256": "daa440f49d2508282557d1101ec80d371497e68c2bf4c01012ad1cc66717fb79",
+    "old_size": 197,
+    "current_size": 197
+  }
+]

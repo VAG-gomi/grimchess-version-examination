@@ -1,0 +1,274 @@
+[
+  {
+    "path": "build.gradle:android/app/build.gradle",
+    "status": "REMOVED",
+    "old_sha256": "616fa335f1c4ebd4b23a16d077413354b400c649e2ee189bdf3c1ca823aeb4d1",
+    "current_sha256": null,
+    "old_size": 2128,
+    "current_size": null
+  },
+  {
+    "path": "build.gradle:android/build.gradle",
+    "status": "REMOVED",
+    "old_sha256": "c05c6e67af5651a56aecb0908027be42c84c03dad529af4839dbdc4393405158",
+    "current_sha256": null,
+    "old_size": 636,
+    "current_size": null
+  },
+  {
+    "path": "build.gradle:src/android/app/build.gradle",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "616fa335f1c4ebd4b23a16d077413354b400c649e2ee189bdf3c1ca823aeb4d1",
+    "old_size": null,
+    "current_size": 2128
+  },
+  {
+    "path": "build.gradle:src/android/build.gradle",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "c05c6e67af5651a56aecb0908027be42c84c03dad529af4839dbdc4393405158",
+    "old_size": null,
+    "current_size": 636
+  },
+  {
+    "path": "capacitor.build.gradle:android/app/capacitor.build.gradle",
+    "status": "REMOVED",
+    "old_sha256": "4d276243789e3a048e7a360f222572e17672dfdffa1c9e05f18529c935c51f9f",
+    "current_sha256": null,
+    "old_size": 422,
+    "current_size": null
+  },
+  {
+    "path": "capacitor.build.gradle:src/android/app/capacitor.build.gradle",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "4d276243789e3a048e7a360f222572e17672dfdffa1c9e05f18529c935c51f9f",
+    "old_size": null,
+    "current_size": 422
+  },
+  {
+    "path": "capacitor.config.ts:build-config/capacitor.config.ts",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "80a55bf3ebed95c76c7fc7b55da9f2eb23229a5318cf247b911a64ed6650403b",
+    "old_size": null,
+    "current_size": 337
+  },
+  {
+    "path": "capacitor.config.ts:capacitor.config.ts",
+    "status": "REMOVED",
+    "old_sha256": "80a55bf3ebed95c76c7fc7b55da9f2eb23229a5318cf247b911a64ed6650403b",
+    "current_sha256": null,
+    "old_size": 337,
+    "current_size": null
+  },
+  {
+    "path": "capacitor.config.ts:src/capacitor.config.ts",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "80a55bf3ebed95c76c7fc7b55da9f2eb23229a5318cf247b911a64ed6650403b",
+    "old_size": null,
+    "current_size": 337
+  },
+  {
+    "path": "capacitor.settings.gradle:android/capacitor.settings.gradle",
+    "status": "REMOVED",
+    "old_sha256": "f0ec980729226ff36e02d3f3331743c2fc5867f3f8eb86571175dc059a3ff7e3",
+    "current_sha256": null,
+    "old_size": 483,
+    "current_size": null
+  },
+  {
+    "path": "capacitor.settings.gradle:src/android/capacitor.settings.gradle",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "f0ec980729226ff36e02d3f3331743c2fc5867f3f8eb86571175dc059a3ff7e3",
+    "old_size": null,
+    "current_size": 483
+  },
+  {
+    "path": "gradle-wrapper.properties:android/gradle/wrapper/gradle-wrapper.properties",
+    "status": "REMOVED",
+    "old_sha256": "252070f2b15e40fd80dc5f8f3a6ae8a2f6928bec943889e189a78b294e8f36a5",
+    "current_sha256": null,
+    "old_size": 252,
+    "current_size": null
+  },
+  {
+    "path": "gradle-wrapper.properties:src/android/gradle/wrapper/gradle-wrapper.properties",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "252070f2b15e40fd80dc5f8f3a6ae8a2f6928bec943889e189a78b294e8f36a5",
+    "old_size": null,
+    "current_size": 252
+  },
+  {
+    "path": "gradle.properties:android/gradle.properties",
+    "status": "REMOVED",
+    "old_sha256": "3bab15c5b8bc4c2f4b6cf525497d15ad4abca53a460e6dd2eb0f0135817d31e6",
+    "current_sha256": null,
+    "old_size": 987,
+    "current_size": null
+  },
+  {
+    "path": "gradle.properties:src/android/gradle.properties",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "3bab15c5b8bc4c2f4b6cf525497d15ad4abca53a460e6dd2eb0f0135817d31e6",
+    "old_size": null,
+    "current_size": 987
+  },
+  {
+    "path": "package-lock.json:build-config/package-lock.json",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "7c7ee7ded25b6c43159eca1f064c00392ed9935683fd3a42aafd1322974fb0e5",
+    "old_size": null,
+    "current_size": 124117
+  },
+  {
+    "path": "package-lock.json:package-lock.json",
+    "status": "REMOVED",
+    "old_sha256": "7c7ee7ded25b6c43159eca1f064c00392ed9935683fd3a42aafd1322974fb0e5",
+    "current_sha256": null,
+    "old_size": 124117,
+    "current_size": null
+  },
+  {
+    "path": "package-lock.json:src/package-lock.json",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "7c7ee7ded25b6c43159eca1f064c00392ed9935683fd3a42aafd1322974fb0e5",
+    "old_size": null,
+    "current_size": 124117
+  },
+  {
+    "path": "package.json:build-config/package.json",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "8dea622939b15e6913efdc02bb20dffe3c6d457bd86d6745daa6bfa48633c8af",
+    "old_size": null,
+    "current_size": 1226
+  },
+  {
+    "path": "package.json:package.json",
+    "status": "REMOVED",
+    "old_sha256": "8dea622939b15e6913efdc02bb20dffe3c6d457bd86d6745daa6bfa48633c8af",
+    "current_sha256": null,
+    "old_size": 1226,
+    "current_size": null
+  },
+  {
+    "path": "package.json:src/package.json",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "8dea622939b15e6913efdc02bb20dffe3c6d457bd86d6745daa6bfa48633c8af",
+    "old_size": null,
+    "current_size": 1226
+  },
+  {
+    "path": "pnpm-lock.yaml:build-config/pnpm-lock.yaml",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "35763217e08d637b74a2617415ec9dc178fc17c3323708a1497e352d415f4748",
+    "old_size": null,
+    "current_size": 72630
+  },
+  {
+    "path": "pnpm-lock.yaml:pnpm-lock.yaml",
+    "status": "REMOVED",
+    "old_sha256": "35763217e08d637b74a2617415ec9dc178fc17c3323708a1497e352d415f4748",
+    "current_sha256": null,
+    "old_size": 72630,
+    "current_size": null
+  },
+  {
+    "path": "pnpm-lock.yaml:src/pnpm-lock.yaml",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "35763217e08d637b74a2617415ec9dc178fc17c3323708a1497e352d415f4748",
+    "old_size": null,
+    "current_size": 72630
+  },
+  {
+    "path": "settings.gradle:android/settings.gradle",
+    "status": "REMOVED",
+    "old_sha256": "6ce098d15ebd69b44c4ecd786bca1bdc366340d2459b2af4d7bb0ab317aa9669",
+    "current_sha256": null,
+    "old_size": 208,
+    "current_size": null
+  },
+  {
+    "path": "settings.gradle:src/android/settings.gradle",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "6ce098d15ebd69b44c4ecd786bca1bdc366340d2459b2af4d7bb0ab317aa9669",
+    "old_size": null,
+    "current_size": 208
+  },
+  {
+    "path": "tsconfig.json:build-config/tsconfig.json",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "e09b1d7398a757eae35c19efcd50710803fe8df7e8d6414d2b6f595166ebf906",
+    "old_size": null,
+    "current_size": 562
+  },
+  {
+    "path": "tsconfig.json:src/tsconfig.json",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "e09b1d7398a757eae35c19efcd50710803fe8df7e8d6414d2b6f595166ebf906",
+    "old_size": null,
+    "current_size": 562
+  },
+  {
+    "path": "tsconfig.json:tsconfig.json",
+    "status": "REMOVED",
+    "old_sha256": "e09b1d7398a757eae35c19efcd50710803fe8df7e8d6414d2b6f595166ebf906",
+    "current_sha256": null,
+    "old_size": 562,
+    "current_size": null
+  },
+  {
+    "path": "variables.gradle:android/variables.gradle",
+    "status": "REMOVED",
+    "old_sha256": "47391f3ef8551f8cdeabcc383a99bbee6927d8b4191cfaf3027353fe25741852",
+    "current_sha256": null,
+    "old_size": 496,
+    "current_size": null
+  },
+  {
+    "path": "variables.gradle:src/android/variables.gradle",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "47391f3ef8551f8cdeabcc383a99bbee6927d8b4191cfaf3027353fe25741852",
+    "old_size": null,
+    "current_size": 496
+  },
+  {
+    "path": "vite.config.ts:build-config/vite.config.ts",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "643e6b046ff9e3825ef55fae8ca4b36a4e4d6cc8000f2d885387b3263528b568",
+    "old_size": null,
+    "current_size": 245
+  },
+  {
+    "path": "vite.config.ts:src/vite.config.ts",
+    "status": "ADDED",
+    "old_sha256": null,
+    "current_sha256": "643e6b046ff9e3825ef55fae8ca4b36a4e4d6cc8000f2d885387b3263528b568",
+    "old_size": null,
+    "current_size": 245
+  },
+  {
+    "path": "vite.config.ts:vite.config.ts",
+    "status": "REMOVED",
+    "old_sha256": "643e6b046ff9e3825ef55fae8ca4b36a4e4d6cc8000f2d885387b3263528b568",
+    "current_sha256": null,
+    "old_size": 245,
+    "current_size": null
+  }
+]

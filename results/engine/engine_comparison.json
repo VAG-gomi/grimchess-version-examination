@@ -1,0 +1,122 @@
+[
+  {
+    "path": "download-stockfish.sh",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "387590f3d253d643974409fca2e6fde1f5d2f116b87422a61140f3b31024ec9b",
+    "current_sha256": "387590f3d253d643974409fca2e6fde1f5d2f116b87422a61140f3b31024ec9b",
+    "old_size": 827,
+    "current_size": 827
+  },
+  {
+    "path": "public/stockfish/stockfish-nnue-16-single.js",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "e2958bb89fc6ee0faedde87284bbb7e14da2ab224f06ca1bd82e62eaca87d00b",
+    "current_sha256": "e2958bb89fc6ee0faedde87284bbb7e14da2ab224f06ca1bd82e62eaca87d00b",
+    "old_size": 25594,
+    "current_size": 25594
+  },
+  {
+    "path": "public/stockfish/stockfish-nnue-16-single.wasm",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "a7acf7f20cb81d755b39b3dd42a4bdfd6e8c8d3d203d9fbdc525e40e1f68df08",
+    "current_sha256": "a7acf7f20cb81d755b39b3dd42a4bdfd6e8c8d3d203d9fbdc525e40e1f68df08",
+    "old_size": 575029,
+    "current_size": 575029
+  },
+  {
+    "path": "public/stockfish/stockfish-nnue-16.js",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "a4323fce1dd227135d2a4f00687bdb503a37f3a14f0ecc8199b37ea50fd4ab9e",
+    "current_sha256": "a4323fce1dd227135d2a4f00687bdb503a37f3a14f0ecc8199b37ea50fd4ab9e",
+    "old_size": 41125,
+    "current_size": 41125
+  },
+  {
+    "path": "public/stockfish/stockfish-nnue-16.wasm",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "6dee4e00888ec42efd1f74a8c605b600a59f5de79f7cbfdb432dff4f1e078bf5",
+    "current_sha256": "6dee4e00888ec42efd1f74a8c605b600a59f5de79f7cbfdb432dff4f1e078bf5",
+    "old_size": 708419,
+    "current_size": 708419
+  },
+  {
+    "path": "src/__tests__/paradox.test.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "04252b96c30cf6c665e954ec6fc4d0ca6ae91b0a655cb29aad3c342ec0ab964a",
+    "current_sha256": "04252b96c30cf6c665e954ec6fc4d0ca6ae91b0a655cb29aad3c342ec0ab964a",
+    "old_size": 2838,
+    "current_size": 2838
+  },
+  {
+    "path": "src/engine/stockfish.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "ee144c39f4714647c587ab8a95327167a55f6d3573eabcd5f1032578051bf6b2",
+    "current_sha256": "ee144c39f4714647c587ab8a95327167a55f6d3573eabcd5f1032578051bf6b2",
+    "old_size": 4722,
+    "current_size": 4722
+  },
+  {
+    "path": "src/simulator/StockfishAdapter.ts",
+    "status": "MODIFIED",
+    "old_sha256": "3241e2fd20fa3ca9b2c6202778ab89add329b28d6045af56ce767507ed452773",
+    "current_sha256": "5774b51a15b9fc17c86b08f5316ac914696854f33ad89eae5ff739a25476a90a",
+    "old_size": 5023,
+    "current_size": 6720
+  },
+  {
+    "path": "src/simulator/paradox/ContradictionDetector.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "a28847c041e135a34c4525370e3e5afb3cd4f90a0517a0593b7fb401c71ffb92",
+    "current_sha256": "a28847c041e135a34c4525370e3e5afb3cd4f90a0517a0593b7fb401c71ffb92",
+    "old_size": 1379,
+    "current_size": 1379
+  },
+  {
+    "path": "src/simulator/paradox/LiveAdapter.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "6cb0be36ad4df61a0ad9962ca2bc916b1899157e99bec2eaf9133e755ceb1206",
+    "current_sha256": "6cb0be36ad4df61a0ad9962ca2bc916b1899157e99bec2eaf9133e755ceb1206",
+    "old_size": 1774,
+    "current_size": 1774
+  },
+  {
+    "path": "src/simulator/paradox/MapRevisionEngine.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "ee165c4006fdb169ec66309b22662cc3d8f0766b3aa97ecf4602734b34c63956",
+    "current_sha256": "ee165c4006fdb169ec66309b22662cc3d8f0766b3aa97ecf4602734b34c63956",
+    "old_size": 1537,
+    "current_size": 1537
+  },
+  {
+    "path": "src/simulator/paradox/ParadoxEngine.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "73efe96c07171d60977bda43fdc34202474f300270ab60ccc315c09f0d2ed86c",
+    "current_sha256": "73efe96c07171d60977bda43fdc34202474f300270ab60ccc315c09f0d2ed86c",
+    "old_size": 3437,
+    "current_size": 3437
+  },
+  {
+    "path": "src/simulator/paradox/PredictionMap.ts",
+    "status": "MODIFIED",
+    "old_sha256": "7c9fe03bf92c9a266302e1165374c765f78cb47fe84a8f5d2cdecfcbcbedc7b5",
+    "current_sha256": "5ab6ab555b0ed9f28f863471d3664ea9a8a79811496d7fe6b17aa2bd51c3a175",
+    "old_size": 3214,
+    "current_size": 4128
+  },
+  {
+    "path": "src/simulator/paradox/index.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "67d97270a60cf16da94ff0694bb6b5bed2c30f64be6f4a6e3dc5c931d9a8638f",
+    "current_sha256": "67d97270a60cf16da94ff0694bb6b5bed2c30f64be6f4a6e3dc5c931d9a8638f",
+    "old_size": 655,
+    "current_size": 655
+  },
+  {
+    "path": "src/simulator/paradox/types.ts",
+    "status": "BYTE-IDENTICAL",
+    "old_sha256": "7f1850a9d50c30ea972dcebfee7df2fa86a076bdea3dfbd7316c55edeb8dda56",
+    "current_sha256": "7f1850a9d50c30ea972dcebfee7df2fa86a076bdea3dfbd7316c55edeb8dda56",
+    "old_size": 2197,
+    "current_size": 2197
+  }
+]

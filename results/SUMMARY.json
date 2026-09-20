@@ -1,0 +1,56 @@
+{
+  "pinned_inputs": {
+    "current_commit": "f7cd9a89e8c4f6366c7ed7a778ae3acf0b89e180",
+    "old_commit": "6fbdc09a604ecb373981e1f4b2787b56a86076b4"
+  },
+  "apk_count_current": 1,
+  "apk_count_old": 4,
+  "source_counts": {
+    "BYTE-IDENTICAL": 29,
+    "ADDED": 1,
+    "REMOVED": 0,
+    "MODIFIED": 5
+  },
+  "build_counts": {
+    "BYTE-IDENTICAL": 0,
+    "ADDED": 20,
+    "REMOVED": 14,
+    "MODIFIED": 0
+  },
+  "engine_counts": {
+    "BYTE-IDENTICAL": 13,
+    "ADDED": 0,
+    "REMOVED": 0,
+    "MODIFIED": 2
+  },
+  "apk_pair_entry_counts": {
+    "OLD-APK-001": {
+      "BYTE-IDENTICAL": 22,
+      "ADDED": 291,
+      "REMOVED": 256,
+      "MODIFIED": 183
+    },
+    "OLD-APK-002": {
+      "BYTE-IDENTICAL": 86,
+      "ADDED": 404,
+      "REMOVED": 404,
+      "MODIFIED": 6
+    },
+    "OLD-APK-003": {
+      "BYTE-IDENTICAL": 86,
+      "ADDED": 404,
+      "REMOVED": 404,
+      "MODIFIED": 6
+    },
+    "OLD-APK-004": {
+      "BYTE-IDENTICAL": 86,
+      "ADDED": 404,
+      "REMOVED": 404,
+      "MODIFIED": 6
+    }
+  },
+  "current_earlier_identity": {
+    "sha256": "61a00ce9c1fb54a995cd6351eb15add9a46a5b60774a2264c4fa4b9e3f301fc3",
+    "relationship": "This hash is byte-identical to OLD-APK-002; the pinned Current repository does not contain it as a Current artifact."
+  }
+}
